@@ -120,9 +120,6 @@ grid-template-columns: repeat(3, 1fr);
 align-content: center;
 gap: 20px;
 }
-.popular-collection{
-/* margin-top: 99px; */
-}
 .popular-name{
 color: #18191F;
 font-size: 28px;
@@ -176,9 +173,6 @@ margin: 16px 0;
 color: #0A0826;
 font-weight: 800;
 font-size: 38px;
-}
-.featured-content{
-/* margin-top: 80px; */
 }
 /* featurd-product-section-start */
 
